@@ -1,0 +1,6 @@
+{
+  "name": "智能业务咨询工单管家",
+  "description": "企业级智能咨询系统：集成了智能一句话解析回填表单、AI无人多轮会话提问、超时二次全自动分发以及用户与市场专家在线协同流转的仿小程序一体化平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
